@@ -1,0 +1,7 @@
+Mirror in progress since Thu, 05 Sep 2024 17:58:28 .. please wait!
+httrack https://romsfun.com/roms/playstation-2 -O ./romsfun-ps2 +https://romsfun.com/roms/playstation-2* -v 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=2879
+UID=33333
+GID=33333
+START=1725559108
